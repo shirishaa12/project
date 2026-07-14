@@ -1,0 +1,5 @@
+
+> karnataka-ev-connect@1.0.0 start
+> tsx server/index.ts
+
+API listening on http://127.0.0.1:8787
